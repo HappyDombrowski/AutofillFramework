@@ -1,0 +1,407 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:16:1-64:12
+INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:16:1-64:12
+INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:16:1-64:12
+MERGED from [com.android.support:support-v13:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\2069ba7dafffdfff870e353885502626\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\e0651cfaf451142b655ea54dc3c34b41\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\6c32cf052c0aa05dc4ac7d12f04575b8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\1e3fd4d183360aa48b9f3fbc83c0d89c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\3459139022d07889726875427588e0f4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\6d61460af2bb2b76476ee149f7f85785\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\d1824080ea1365a1fd66bcc1b9701898\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\59ee6bd09946e46a5df013f92f9dc614\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\b2b3a746658c1f995bff7f185e044e15\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\33f68684ef1548cee83db4b4a103142f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\3127d9a88ae50ba7dfdbc95fa7b0d758\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\db130ccf217eaf957c2077758b0a6a3d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\9f6977d21ff8b0f7c4a7683f50ebee76\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\39ab9035c97c3978fb9056f76a19a070\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\f4aef772aa199cdb1b766fe2cffce881\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\2796d58ffcc8e98896364ddfbfb4d86e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\d8dbd37c8698b9bc9eb640699b8095ce\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\bac32468ca179b1936e8af40cda464a6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\124ab5b9b6ddb2a2306bbe9906e8cc06\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\be5ca8a7784702adabaf47caaa009c36\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\1f5408f84dd1ce3238295c36ea4fe40e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\98c9ada62fb8cc91b22363d33236f228\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\cc8e3e20b9b2f6d575430e6ef2a810ca\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\a232ef918fe8a02d8e3237bed72ab591\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\466e80121d9f7f5b4ebcd9862c2f053f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\29910ca8c4670d76bddd6e37c1641a4a\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\16db66db8c81b2ec89b9fec2cb77a72c\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\0f8f000d5413e4061941beec782d8a02\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\5ac860a65e969b64b2fc91b5c4a9fe2e\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\c3ba1b4602220bd473d394698422a740\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\501e2f99ed0ff9d8ed70e8d9f2db1caf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\47a1e502627e27c365e020a9bbc2cf14\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\65032b69f2137bba5af609bfed8c7b56\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\12371731a5f6b1b9844232c76416ea5d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\2cdb1e286ccec3354c6cad0141dcc1bd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\95e5f8e23e85463e74d22df4215dd095\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\03212fe551e816f528ec6043e67ac95a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\08dc7972f32446df577ac9c2196ed4be\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\fb9d5a7309e127b476c8ac82155b452b\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\64e2b538f097ca6ef27bff0d38ca3ec6\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\31cb22d3f7dd5883928abf55e809bc17\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\c8ca49593449ca13bc1bc7bf8c7f9d0d\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\c0e71064b3a62405ea797b209ca23a25\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\faf35d1173eb026f9e0ebb6fe6e23da0\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\074107c8d5e5ae1812f8379ea75125d4\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\680f08907d75663fd2f04f2118c5c3bf\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\cd1b7abedfebd261ff1c38be5be3bce5\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\686165fc4368869946b07c0101abacec\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\3057772b817702441bdab57182475c7d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\302eccdc412a151a05d70acc429e9144\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\a773c43b84b076168267fb43c2f70302\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\aac407cc601ceb750b06df8dc1591a0f\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\6392845f03245d40f058451eadb13e7e\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\99c0a1ad77935dae24cbd37d33475101\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\777ea2484057e09e3088fb901f8d97ad\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\e0a6755a61470370f1df5f37240364f5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\4e374ef454b44f3f53ddceaaafaac862\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\ad8e1610d76225de0a9787d19c17a3ef\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\037edc89bbe33b59a31ce4a598910709\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\101aa43a531a83ef8a59a152cec20b03\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\20b8972ffdb46f1d934a6a4f2cdc457f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\794aaa32525c55e4e1eb96da4588a582\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:16:1-64:12
+INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:16:1-64:12
+	package
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:17:5-47
+	android:versionName
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:21:22-64
+application
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:23:5-62:19
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\6c32cf052c0aa05dc4ac7d12f04575b8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\6c32cf052c0aa05dc4ac7d12f04575b8\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\1e3fd4d183360aa48b9f3fbc83c0d89c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\1e3fd4d183360aa48b9f3fbc83c0d89c\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\3459139022d07889726875427588e0f4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\3459139022d07889726875427588e0f4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\6d61460af2bb2b76476ee149f7f85785\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\6d61460af2bb2b76476ee149f7f85785\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\d1824080ea1365a1fd66bcc1b9701898\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\d1824080ea1365a1fd66bcc1b9701898\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\59ee6bd09946e46a5df013f92f9dc614\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\59ee6bd09946e46a5df013f92f9dc614\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\b2b3a746658c1f995bff7f185e044e15\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\b2b3a746658c1f995bff7f185e044e15\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\33f68684ef1548cee83db4b4a103142f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\33f68684ef1548cee83db4b4a103142f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\3127d9a88ae50ba7dfdbc95fa7b0d758\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\3127d9a88ae50ba7dfdbc95fa7b0d758\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\9f6977d21ff8b0f7c4a7683f50ebee76\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\9f6977d21ff8b0f7c4a7683f50ebee76\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\39ab9035c97c3978fb9056f76a19a070\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\39ab9035c97c3978fb9056f76a19a070\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\f4aef772aa199cdb1b766fe2cffce881\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\f4aef772aa199cdb1b766fe2cffce881\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\2796d58ffcc8e98896364ddfbfb4d86e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\2796d58ffcc8e98896364ddfbfb4d86e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\d8dbd37c8698b9bc9eb640699b8095ce\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\d8dbd37c8698b9bc9eb640699b8095ce\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\bac32468ca179b1936e8af40cda464a6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\bac32468ca179b1936e8af40cda464a6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\124ab5b9b6ddb2a2306bbe9906e8cc06\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\124ab5b9b6ddb2a2306bbe9906e8cc06\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\be5ca8a7784702adabaf47caaa009c36\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\be5ca8a7784702adabaf47caaa009c36\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\1f5408f84dd1ce3238295c36ea4fe40e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\1f5408f84dd1ce3238295c36ea4fe40e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\98c9ada62fb8cc91b22363d33236f228\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\98c9ada62fb8cc91b22363d33236f228\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\cc8e3e20b9b2f6d575430e6ef2a810ca\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\cc8e3e20b9b2f6d575430e6ef2a810ca\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\466e80121d9f7f5b4ebcd9862c2f053f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\466e80121d9f7f5b4ebcd9862c2f053f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\c3ba1b4602220bd473d394698422a740\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\c3ba1b4602220bd473d394698422a740\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\501e2f99ed0ff9d8ed70e8d9f2db1caf\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\501e2f99ed0ff9d8ed70e8d9f2db1caf\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\47a1e502627e27c365e020a9bbc2cf14\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\47a1e502627e27c365e020a9bbc2cf14\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\65032b69f2137bba5af609bfed8c7b56\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\65032b69f2137bba5af609bfed8c7b56\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\2cdb1e286ccec3354c6cad0141dcc1bd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\2cdb1e286ccec3354c6cad0141dcc1bd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\686165fc4368869946b07c0101abacec\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\686165fc4368869946b07c0101abacec\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\3057772b817702441bdab57182475c7d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\3057772b817702441bdab57182475c7d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\302eccdc412a151a05d70acc429e9144\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\302eccdc412a151a05d70acc429e9144\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\e0a6755a61470370f1df5f37240364f5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\e0a6755a61470370f1df5f37240364f5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\4e374ef454b44f3f53ddceaaafaac862\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\4e374ef454b44f3f53ddceaaafaac862\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\ad8e1610d76225de0a9787d19c17a3ef\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\ad8e1610d76225de0a9787d19c17a3ef\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:28:9-40
+activity#com.example.android.autofill.app.MainActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:29:9-36:20
+	android:taskAffinity
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:30:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:34:27-74
+activity#com.example.android.autofill.app.commoncases.StandardSignInActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:37:9-104
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:37:19-101
+activity#com.example.android.autofill.app.commoncases.StandardAutoCompleteSignInActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:38:9-116
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:38:19-113
+activity#com.example.android.autofill.app.commoncases.VirtualSignInActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:39:9-103
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:39:19-100
+activity#com.example.android.autofill.app.edgecases.VirtualCompatModeSignInActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:40:9-111
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:40:19-108
+activity#com.example.android.autofill.app.WelcomeActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:41:9-85
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:41:19-82
+activity#com.example.android.autofill.app.edgecases.CreditCardActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:42:9-98
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:42:19-95
+activity#com.example.android.autofill.app.commoncases.CreditCardSpinnersActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:43:9-108
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:43:19-105
+activity#com.example.android.autofill.app.commoncases.EmailComposeActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:44:9-102
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:44:19-99
+activity#com.example.android.autofill.app.commoncases.CreditCardCompoundViewActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:45:9-112
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:45:19-109
+activity#com.example.android.autofill.app.commoncases.CreditCardDatePickerActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:46:9-110
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:46:19-107
+activity#com.example.android.autofill.app.edgecases.CreditCardAntiPatternActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:47:9-109
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:47:19-106
+activity#com.example.android.autofill.app.edgecases.MultiplePartitionsActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:48:9-50:72
+	android:theme
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:50:13-69
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:49:13-97
+activity#com.example.android.autofill.app.commoncases.WebViewSignInActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:51:9-103
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:51:19-100
+activity#com.example.android.autofill.app.edgecases.MultipleStepsSignInActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:52:9-107
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:52:19-104
+activity#com.example.android.autofill.app.edgecases.MultipleStepsCreditCardActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:53:9-111
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:53:19-108
+activity#com.example.android.autofill.app.commoncases.RecyclerViewActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:54:9-102
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:54:19-99
+activity#com.example.android.autofill.app.antipatterns.BadViewStructureCreationSignInActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:55:9-121
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:55:19-118
+activity#com.example.android.autofill.app.antipatterns.UsernameOnlyActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:56:9-103
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:56:19-100
+activity#com.example.android.autofill.app.antipatterns.PasswordOnlyActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:57:9-103
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:57:19-100
+activity#com.example.android.autofill.app.antipatterns.HintlessSignInActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:58:9-105
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:58:19-102
+activity#com.example.android.autofill.app.antipatterns.CallbackLessAutoCompleteSignInActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:59:9-121
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:59:19-118
+activity#com.example.android.autofill.app.edgecases.CustomThemeSignInActivity
+ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:60:9-61:75
+	android:theme
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:61:19-72
+	android:name
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml:60:19-102
+uses-sdk
+INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\2069ba7dafffdfff870e353885502626\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-v13:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\2069ba7dafffdfff870e353885502626\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\e0651cfaf451142b655ea54dc3c34b41\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-v4:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\e0651cfaf451142b655ea54dc3c34b41\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\6c32cf052c0aa05dc4ac7d12f04575b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\6c32cf052c0aa05dc4ac7d12f04575b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\1e3fd4d183360aa48b9f3fbc83c0d89c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-theme:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\1e3fd4d183360aa48b9f3fbc83c0d89c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\3459139022d07889726875427588e0f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomappbar:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\3459139022d07889726875427588e0f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\6d61460af2bb2b76476ee149f7f85785\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-transformation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\6d61460af2bb2b76476ee149f7f85785\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\d1824080ea1365a1fd66bcc1b9701898\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-widget:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\d1824080ea1365a1fd66bcc1b9701898\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\59ee6bd09946e46a5df013f92f9dc614\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomsheet:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\59ee6bd09946e46a5df013f92f9dc614\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\b2b3a746658c1f995bff7f185e044e15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-dialog:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\b2b3a746658c1f995bff7f185e044e15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\33f68684ef1548cee83db4b4a103142f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-card:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\33f68684ef1548cee83db4b4a103142f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\3127d9a88ae50ba7dfdbc95fa7b0d758\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-cardview:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\3127d9a88ae50ba7dfdbc95fa7b0d758\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\db130ccf217eaf957c2077758b0a6a3d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\db130ccf217eaf957c2077758b0a6a3d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\9f6977d21ff8b0f7c4a7683f50ebee76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-button:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\9f6977d21ff8b0f7c4a7683f50ebee76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\39ab9035c97c3978fb9056f76a19a070\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-chip:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\39ab9035c97c3978fb9056f76a19a070\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\f4aef772aa199cdb1b766fe2cffce881\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-internal:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\f4aef772aa199cdb1b766fe2cffce881\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\2796d58ffcc8e98896364ddfbfb4d86e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-bottomnavigation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\2796d58ffcc8e98896364ddfbfb4d86e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\d8dbd37c8698b9bc9eb640699b8095ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-floatingactionbutton:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\d8dbd37c8698b9bc9eb640699b8095ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\bac32468ca179b1936e8af40cda464a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-navigation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\bac32468ca179b1936e8af40cda464a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\124ab5b9b6ddb2a2306bbe9906e8cc06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-resources:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\124ab5b9b6ddb2a2306bbe9906e8cc06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\be5ca8a7784702adabaf47caaa009c36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-tabs:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\be5ca8a7784702adabaf47caaa009c36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\1f5408f84dd1ce3238295c36ea4fe40e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-textfield:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\1f5408f84dd1ce3238295c36ea4fe40e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\98c9ada62fb8cc91b22363d33236f228\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-typography:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\98c9ada62fb8cc91b22363d33236f228\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\cc8e3e20b9b2f6d575430e6ef2a810ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-shape:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\cc8e3e20b9b2f6d575430e6ef2a810ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\a232ef918fe8a02d8e3237bed72ab591\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\a232ef918fe8a02d8e3237bed72ab591\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\466e80121d9f7f5b4ebcd9862c2f053f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\466e80121d9f7f5b4ebcd9862c2f053f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\29910ca8c4670d76bddd6e37c1641a4a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\29910ca8c4670d76bddd6e37c1641a4a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\16db66db8c81b2ec89b9fec2cb77a72c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\16db66db8c81b2ec89b9fec2cb77a72c\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\0f8f000d5413e4061941beec782d8a02\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\0f8f000d5413e4061941beec782d8a02\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\5ac860a65e969b64b2fc91b5c4a9fe2e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\5ac860a65e969b64b2fc91b5c4a9fe2e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\c3ba1b4602220bd473d394698422a740\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-animation:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\c3ba1b4602220bd473d394698422a740\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\501e2f99ed0ff9d8ed70e8d9f2db1caf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal-coordinatorlayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\501e2f99ed0ff9d8ed70e8d9f2db1caf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\47a1e502627e27c365e020a9bbc2cf14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-expandable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\47a1e502627e27c365e020a9bbc2cf14\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\65032b69f2137bba5af609bfed8c7b56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-stateful:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\65032b69f2137bba5af609bfed8c7b56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\12371731a5f6b1b9844232c76416ea5d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\12371731a5f6b1b9844232c76416ea5d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\2cdb1e286ccec3354c6cad0141dcc1bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-ripple:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\2cdb1e286ccec3354c6cad0141dcc1bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\95e5f8e23e85463e74d22df4215dd095\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\95e5f8e23e85463e74d22df4215dd095\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\03212fe551e816f528ec6043e67ac95a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\03212fe551e816f528ec6043e67ac95a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\08dc7972f32446df577ac9c2196ed4be\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\08dc7972f32446df577ac9c2196ed4be\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\fb9d5a7309e127b476c8ac82155b452b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\fb9d5a7309e127b476c8ac82155b452b\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\64e2b538f097ca6ef27bff0d38ca3ec6\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\64e2b538f097ca6ef27bff0d38ca3ec6\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\31cb22d3f7dd5883928abf55e809bc17\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\31cb22d3f7dd5883928abf55e809bc17\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\c8ca49593449ca13bc1bc7bf8c7f9d0d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\c8ca49593449ca13bc1bc7bf8c7f9d0d\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\c0e71064b3a62405ea797b209ca23a25\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\c0e71064b3a62405ea797b209ca23a25\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\faf35d1173eb026f9e0ebb6fe6e23da0\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\faf35d1173eb026f9e0ebb6fe6e23da0\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\074107c8d5e5ae1812f8379ea75125d4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\074107c8d5e5ae1812f8379ea75125d4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\680f08907d75663fd2f04f2118c5c3bf\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\680f08907d75663fd2f04f2118c5c3bf\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\cd1b7abedfebd261ff1c38be5be3bce5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\cd1b7abedfebd261ff1c38be5be3bce5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\686165fc4368869946b07c0101abacec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-canvas:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\686165fc4368869946b07c0101abacec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\3057772b817702441bdab57182475c7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-circularreveal:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\3057772b817702441bdab57182475c7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\302eccdc412a151a05d70acc429e9144\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-drawable:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\302eccdc412a151a05d70acc429e9144\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\a773c43b84b076168267fb43c2f70302\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\a773c43b84b076168267fb43c2f70302\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\aac407cc601ceb750b06df8dc1591a0f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\aac407cc601ceb750b06df8dc1591a0f\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\6392845f03245d40f058451eadb13e7e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\6392845f03245d40f058451eadb13e7e\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\99c0a1ad77935dae24cbd37d33475101\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\99c0a1ad77935dae24cbd37d33475101\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\777ea2484057e09e3088fb901f8d97ad\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\777ea2484057e09e3088fb901f8d97ad\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\e0a6755a61470370f1df5f37240364f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-color:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\e0a6755a61470370f1df5f37240364f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\4e374ef454b44f3f53ddceaaafaac862\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-math:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\4e374ef454b44f3f53ddceaaafaac862\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\ad8e1610d76225de0a9787d19c17a3ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design-snackbar:28.0.0-alpha1] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\ad8e1610d76225de0a9787d19c17a3ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\037edc89bbe33b59a31ce4a598910709\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\037edc89bbe33b59a31ce4a598910709\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\101aa43a531a83ef8a59a152cec20b03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\101aa43a531a83ef8a59a152cec20b03\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\20b8972ffdb46f1d934a6a4f2cdc457f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\20b8972ffdb46f1d934a6a4f2cdc457f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\794aaa32525c55e4e1eb96da4588a582\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HappyDombrowski\.gradle\caches\transforms-2\files-2.1\794aaa32525c55e4e1eb96da4588a582\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HappyDombrowski\AndroidStudioProjects\AutofillFramework\Application\src\main\AndroidManifest.xml

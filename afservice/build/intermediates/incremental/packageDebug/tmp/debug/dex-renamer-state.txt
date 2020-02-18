@@ -1,0 +1,7 @@
+#Tue Feb 18 13:22:25 EST 2020
+base.0=C\:\\Users\\HappyDombrowski\\AndroidStudioProjects\\AutofillFramework\\afservice\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\HappyDombrowski\\AndroidStudioProjects\\AutofillFramework\\afservice\\build\\intermediates\\transforms\\dexMerger\\debug\\1
